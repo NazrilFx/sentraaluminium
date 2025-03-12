@@ -7,6 +7,9 @@ export default function DetailPage() {
       <div className="flex flex-col lg:flex-row items-center">
         {/* Gambar Produk dengan Horizontal Scroll */}
         <div className="w-full lg:w-1/2">
+          <div className="absolute mt-[480px] ml-[30px] h-10 w-36 bg-sky-500/50 backdrop-blur-md px-6 py-2 rounded-full text-white font-bold hover:bg-sky-600 flex items-center justify-center gap-2 shadow-2xl shadow-sky-500">
+            SCROLL <MoveRight className="w-5 h-5" />
+          </div>
           <div className="flex gap-4 overflow-x-auto pb-2 scrollbar-hide">
             {/* Gambar 1 */}
             <div className="flex-shrink-0">
