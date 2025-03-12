@@ -11,7 +11,7 @@ export default function DetailPage() {
             {/* Gambar 1 */}
             <div className="flex-shrink-0">
               <Image
-                src="/2-pintu.png"
+                src="/4-pintu.png"
                 alt="Rak Dulang 2 Pintu - Tampak Depan"
                 width={500}
                 height={500}
@@ -21,18 +21,8 @@ export default function DetailPage() {
             {/* Gambar 2 */}
             <div className="flex-shrink-0">
               <Image
-                src="/example1-2-pintu.jpg"
+                src="/landing2.jpg"
                 alt="Rak Dulang 2 Pintu - Tampak Samping"
-                width={500}
-                height={500}
-                className="w-full h-full object-cover  rounded-lg"
-              />
-            </div>
-            {/* Gambar 3 */}
-            <div className="flex-shrink-0">
-              <Image
-                src="/example2-2-pintu.jpg"
-                alt="Rak Dulang 2 Pintu - Tampak Dalam"
                 width={500}
                 height={500}
                 className="w-full h-full object-cover  rounded-lg"
