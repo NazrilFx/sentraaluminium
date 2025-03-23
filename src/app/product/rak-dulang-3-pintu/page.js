@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { MoveRight } from "lucide-react";
 
 export default function DetailPage() {
   return (
@@ -15,7 +16,7 @@ export default function DetailPage() {
             <div className="flex-shrink-0">
               <Image
                 src="/3-pintu.png"
-                alt="Rak Dulang 2 Pintu - Tampak Depan"
+                alt="Rak Dulang 3 Pintu - Tampak 3D"
                 width={500}
                 height={500}
                 className="w-full h-full object-cover  rounded-lg"
@@ -25,7 +26,7 @@ export default function DetailPage() {
             <div className="flex-shrink-0">
               <Image
                 src="/landing3.jpg"
-                alt="Rak Dulang 2 Pintu - Tampak Samping"
+                alt="Rak Dulang 3 Pintu - Tampak Samping"
                 width={500}
                 height={500}
                 className="w-full h-full object-cover  rounded-lg"
@@ -37,14 +38,14 @@ export default function DetailPage() {
         {/* Detail Produk */}
         <div className="w-full lg:w-1/2 lg:pl-10 text-center lg:text-left">
           <h1 className="text-4xl font-bold text-gray-800">
-            Rak Dulang 2 Pintu – Kuat & Minimalis
+            Rak Dulang 3 Pintu – Kuat & Minimalis
           </h1>
           <p className="text-gray-500 mt-2">
-            Kecil dan simpel, cocok untuk ruang terbatas. Ideal untuk menyimpan
-            perlengkapan rumah tangga, buku, atau kosmetik.
+            Ukuran medium dengan kapasitas lebih luas. Cocok untuk menyimpan
+            peralatan dapur, makanan ringan, atau perlengkapan kantor.
           </p>
           <p className="text-2xl font-bold text-sky-500 mt-4 mb-5">
-            Rp 1.400.000
+            Rp 2.300.000
           </p>
 
           {/* Tombol Beli */}

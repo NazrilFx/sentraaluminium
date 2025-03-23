@@ -73,7 +73,7 @@ export default function Home() {
             href="/product/rak-dulang-2-pintu"
             src="/2-pintu.png"
             title="Rak Kaca 2 Pintu"
-            price="1.400.000"
+            price="1.600.000"
             padding={40}
             desc="Kecil dan simpel, cocok untuk ruang terbatas. Ideal untuk menyimpan perlengkapan rumah tangga, buku, atau kosmetik."
           ></ProductCard>
@@ -82,7 +82,7 @@ export default function Home() {
             href="/product/rak-dulang-3-pintu"
             src="/3-pintu.png"
             title="Rak Kaca 3 Pintu"
-            price="2.100.000"
+            price="2.300.000"
             padding={55}
             desc="Ukuran medium dengan kapasitas lebih luas. Cocok untuk menyimpan peralatan dapur, makanan ringan, atau perlengkapan kantor."
           ></ProductCard>
@@ -93,7 +93,7 @@ export default function Home() {
             href="/product/rak-dulang-4-pintu"
             src="/4-pintu.png"
             title="Rak 4 Pintu"
-            price="2.600.000"
+            price="2.800.000"
             padding={80}
             desc="Ekstra besar, muat lebih banyak barang. Ideal untuk menyimpan perlengkapan rumah tangga, alat elektronik kecil, atau stok dagangan."
           ></ProductCard>

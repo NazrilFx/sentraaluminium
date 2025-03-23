@@ -55,7 +55,7 @@ export default function DetailPage() {
             perlengkapan rumah tangga, buku, atau kosmetik.
           </p>
           <p className="text-2xl font-bold text-sky-500 mt-4 mb-5">
-            Rp 1.400.000
+            Rp 1.600.000
           </p>
 
           {/* Tombol Beli */}
